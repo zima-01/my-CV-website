@@ -1,5 +1,8 @@
 
-
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
 body, html {
   color: black;
   background-color: #F7F7F7;
